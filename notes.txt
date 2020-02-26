@@ -1,8 +1,7 @@
 Web Percobaan:
 
 1. https://qatesting123.wordpress.com/wp-admin
-user = gdhadi
-pass = admin54321
+	jangan lupa mengisi username dan password
 
 2. https://opensource-demo.orangehrmlive.com/
 
