@@ -1,0 +1,12 @@
+Istilah Git
+- Repository / repo = folder project kolaborasi (ex: kodingan)
+- Commit = poin2 rekaman/perubahan dari repo(bisa lebih dari satu commit)
+	> Pada commit, terdapat komponen:
+		- Hash = kode unik/ id commit
+		- Author = yang melakukan perubahan
+		- Date = tanggal pembuatan commit
+- Branch = cabang (di luar jalur utama) dibuat ketika masih ragu/masih ada hambatan
+- Merge = penggabungan commit agar mengarah ke jalur utama
+- Push = ngupload atau mengirimkan file
+- Pull = menyimpan atau download file 
+- Checkout = Berpindah ke sebuah commit, misal mundur commit
