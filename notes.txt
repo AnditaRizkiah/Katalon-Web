@@ -1,0 +1,32 @@
+Web Percobaan:
+
+1. https://qatesting123.wordpress.com/wp-admin
+user = gdhadi
+pass = admin54321
+
+2. https://opensource-demo.orangehrmlive.com/
+
+Belajar Katalon Studio (Web)
+
+#Record dan Replay
+untuk membuat skenario/test case secara otomatis
+
+#Spy web >> untuk mencari path object (jika buat test case secara manual)
+dengan mengarahkan pointer ke object. Lalu, klik alt + ` (gelombang)
+
+#Manual Test Case 
+Record web >> untuk membuat skenario/test case secara automatis 
+
+#Script Test Case
+Ketika membuat test case secara manual dan mengedit dari submenu script
+
+#Password Encrypt
+	- Pada test case tetep memanggil variabel, dan value pada variabel yang telah terencrypt
+
+#Test Suites (Rangkaian)
+ 	>> untuk menggabungkan beberapa test case yang akan di run
+
+#Test Suite Collection
+	>> Untuk menggabungkan beberapa suite case agar dapat di run secara sequential atau pararel
+
+
