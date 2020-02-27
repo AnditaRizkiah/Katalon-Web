@@ -12,4 +12,5 @@ Istilah Git
 - Pull = menyimpan atau download file dari github
 - Checkout = Berpindah ke sebuah commit, misal mundur commit
 - Remote = sumber yg memiliki repo, ex: github, github
-- CLone = mengambil repo dari remote
+- Clone = mengambil repo dari remote
+- Merge conflict = terjadi ketika perubahan di baris yang sama
