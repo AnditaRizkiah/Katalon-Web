@@ -5,7 +5,7 @@ Istilah Git
 		- Hash = kode unik/ id commit
 		- Author = yang melakukan perubahan
 		- Date = tanggal pembuatan commit
-		- Description
+		- Description = menjelaskan semua data commit
 - Branch = cabang (di luar jalur utama) dibuat ketika masih ragu/masih ada hambatan
 - Merge = penggabungan commit agar mengarah ke jalur utama
 - Push = ngupload atau mengirimkan file ke github
